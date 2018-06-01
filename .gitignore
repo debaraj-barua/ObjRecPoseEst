@@ -1,0 +1,5 @@
+*.pyc
+downloaded-data/
+original-linemod-dataset/
+
+
